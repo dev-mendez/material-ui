@@ -163,7 +163,7 @@
     "node-fetch": "^2.6.7",
     "nx": "^14.8.6",
     "nyc": "^15.1.0",
-    "piscina": "^3.2.0",
+    "piscina": "^4.9.4",
     "playwright": "^1.27.1",
     "prettier": "^2.7.1",
     "pretty-quick": "^3.1.3",
